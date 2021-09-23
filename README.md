@@ -17,8 +17,11 @@ Here are some ideas to get you started:
 ### Hey, I'm Ronja! 🙋🏻‍♀️
 
 I'm currently working @ kraftwerk Kraft-Wärme-Kopplung GmbH doing machine learning for cogeneration units 🧡 
+
 Before, I worked with Angular on diverse projects, so this has been quite a change in scenery for me! 🌅 
+
 I'm happy to accept the challenge and take on the world of ML, currently learning so much about this whole new world. 🌍
+
 
 #### About my person 
 

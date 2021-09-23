@@ -31,3 +31,4 @@ I'm happy to accept the challenge and take on the world of ML, currently learnin
 - My last name is german and translates to 'fox' 🦊
 - For anyone struggling to pronounce my name any of the following is completely fine: Ron, J, Fox, crispy, Ronjay 
 - Open for more name suggestions anytime 😂
+![This me](https://media.giphy.com/media/QxE3vw3DVntMQ/giphy.gif?cid=ecf05e47ge18qxykgh0qvn3cyqf8gkwqtgfi4n2kdv5vs6ll&rid=giphy.gif)

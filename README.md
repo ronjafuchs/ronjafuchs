@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **ronjafuchs/ronjafuchs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hey, I'm Ronja! 🙋🏻‍♀️
+
+I'm currently working @ kraftwerk Kraft-Wärme-Kopplung GmbH doing machine learning for cogeneration units 🧡 
+Before, I worked with Angular on diverse projects, so this has been quite a change in scenery for me! 🌅 
+I'm happy to accept the challenge and take on the world of ML, currently learning so much about this whole new world. 🌍
+
+#### About my person 
+
+- 🏍 🎮 🥊
+- I miss traveling so much it hurts me! 
+- Pronouns: she/her
+- My last name is german and translates to 'fox' 🦊
+- For anyone struggling to pronounce my name any of the following is completely fine: Ron, J, Fox, crispy, Ronjay 
+- Open for more name suggestions anytime 😂

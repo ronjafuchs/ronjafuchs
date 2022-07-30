@@ -26,7 +26,6 @@ I'm happy to accept the challenge and take on the world of ML, currently learnin
 #### About my person 
 
 - 🏍 🎮 🥊
-- I miss traveling so much it hurts me! 
 - Pronouns: she/her
 - My last name is german and translates to 'fox' 🦊
 - For anyone struggling to pronounce my name any of the following is completely fine: Ron, J, Fox, crispy, Ronjay 

@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/ronjafuchs/?theme=nord)
+
 ### Hey, I'm Ronja! 🙋🏻‍♀️
 
 I'm currently working @ kraftwerk Kraft-Wärme-Kopplung GmbH doing energy consumption prognosis for cogeneration units 🧡 

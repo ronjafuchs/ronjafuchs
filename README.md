@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### Hey, I'm Ronja! 🙋🏻‍♀️
 
-I'm currently working @ kraftwerk Kraft-Wärme-Kopplung GmbH doing machine learning for cogeneration units 🧡 
+I'm currently working @ kraftwerk Kraft-Wärme-Kopplung GmbH doing energy consumption prognosis for cogeneration units 🧡 
 
 Before, I worked with Angular on diverse projects, so this has been quite a change in scenery for me! 🌅 
 

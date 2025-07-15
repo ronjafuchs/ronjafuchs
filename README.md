@@ -30,5 +30,6 @@ Before I worked on various projects in Frontend Development using Angular. While
 - 🏍 🎮 🥊
 - Pronouns: she/her
 - My last name is german and translates to 'fox' 🦊
+- My website is [here](https://fuchs.codes/)
 
 ![This me](https://media.giphy.com/media/QxE3vw3DVntMQ/giphy.gif?cid=ecf05e47ge18qxykgh0qvn3cyqf8gkwqtgfi4n2kdv5vs6ll&rid=giphy.gif)

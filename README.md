@@ -17,11 +17,12 @@ Here are some ideas to get you started:
 
 ### Hey, I'm Ronja! 🙋🏻‍♀️
 
-I'm currently working @ kraftwerk Kraft-Wärme-Kopplung GmbH doing energy consumption prognosis for cogeneration units 🧡 
 
-Before, I worked with Angular on diverse projects, so this has been quite a change in scenery for me! 🌅 
+Currently I am studying Computer Science at Leibniz Universität Hannover. In my studies I have especially come to love all things software-engineering as well as data science! I graduated (BSc) in 2024 and am currently studying to get my Masters. It's exciting to be able to gain so much knowledge and be able to specialize more and more.
+Also I am working as a student researcher at Leibniz Universität Hannover, Institute for Information Processing.
 
-I'm happy to accept the challenge and take on the world of ML, currently learning so much about this whole new world. 🌍
+Before I worked on various projects in Frontend Development using Angular. While I do not count this to my daily work, I still love doing a project now and then. :)
+
 
 
 #### About my person 
@@ -29,7 +30,5 @@ I'm happy to accept the challenge and take on the world of ML, currently learnin
 - 🏍 🎮 🥊
 - Pronouns: she/her
 - My last name is german and translates to 'fox' 🦊
-- For anyone struggling to pronounce my name any of the following is completely fine: Ron, J, Fox, crispy, Ronjay 
-- Open for more name suggestions anytime 😂
 
 ![This me](https://media.giphy.com/media/QxE3vw3DVntMQ/giphy.gif?cid=ecf05e47ge18qxykgh0qvn3cyqf8gkwqtgfi4n2kdv5vs6ll&rid=giphy.gif)
